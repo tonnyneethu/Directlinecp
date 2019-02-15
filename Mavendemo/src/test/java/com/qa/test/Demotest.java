@@ -25,4 +25,11 @@ public class Demotest {
 		
 	}
 
+	@Test
+	public void message()
+	{
+		System.out.println("SUBTRACTION");
+		
+		
+	}
 }
